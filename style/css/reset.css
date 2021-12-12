@@ -1,0 +1,136 @@
+/* AB模版网 做最好的织梦整站模板下载网站 Www.AdminBuy.Cn */
+/* QQ：9490489 */
+/* 仿站：Fang.AdminBuy.Cn */
+/* 素材：Sc.AdminBuy.Cn */
+/* js特效：Js.AdminBuy.Cn */
+* {
+	margin: 0;
+	padding: 0;
+}
+body, ol, ul, h1, h2, h3, h4, h5, h6, p, th, td, dl, dd, form, fieldset, legend, input, textarea, select {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+input, select, textarea {
+	outline: none;
+	border: none;
+	background: none;
+}
+textarea {
+	resize: none;
+}
+em, i {
+	font-style: normal;
+}
+ul, ol, li {
+	list-style: none;
+}
+img {
+	border: 0;
+	vertical-align: middle
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+p {
+	word-wrap: break-word;
+	line-height: 22px;
+}
+a {
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	color: #f04848;
+	text-decoration: underline
+}
+a:visited {
+	color: #333333;
+}
+a:hover, a:active, a:focus {
+	color: #f04848;
+	text-decoration: underline;
+}
+a, a:hover {
+	transition: background 0.3s linear;
+	-webkit-transition: background 0.3s linear;
+	-moz-transition: background 0.3s linear;
+	-o-transition: background 0.3s linear;
+	text-decoration: none;
+}
+.clearfix:after {
+	content: "\200B";
+	display: block;
+	height: 0;
+	clear: both;
+}
+.clearfix {
+*zoom:1;
+}
+html {
+	font-size: 10px;
+	-webkit-tap-highlight-color: rgba(0,0,0,0)
+}
+body {
+	position: relative;
+	background: #fff;
+	font: 12px/150% "Microsoft YaHei", Arial, "宋体", Verdana, Lucida, Helvetica, sans-serif;
+	font-weight: 400;
+	line-height: 1.6;
+	color: #333;
+	font-size: 1.6rem
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.w1200 {
+	width: 1200px;
+	margin: 0 auto;
+}
+.h20 {
+	height: 20px;
+	display: inline-block;
+	width: 100%;
+}
+.h30 {
+	height: 30px;
+	display: inline-block;
+}
+.w300 {
+	width: 300px;
+}
+.w298 {
+	width: 298px;
+}
+.h550 {
+	height: 550px;
+}
+.h500 {
+	height: 500px;
+!important;
+}
+.w878 {
+	width: 878px;
+}
+.ml20 {
+	margin-left: 20px;
+}
+.mt20 {
+	margin-bottom: 20px;
+}
+.bor {
+	border: 1px solid #dfdfdf;
+}
+.icon {
+}
+.hide {
+	display: none;
+}
